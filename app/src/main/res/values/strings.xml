@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Class2</string>
+    <string name="hint_nombre">Name:</string>
+    <string name="hint_celular">Celular:</string>
+    <string name="hint_Mostrar">Mostrar:</string>
+    <string name="hint_Invertir">Invertir</string>
+    <string name="mostrar_mensaje">Mostrar Mensaje</string>
+    <string name="invertir">Invertir</string>
+</resources>
